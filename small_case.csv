@@ -1,0 +1,71 @@
+f,x,y,z,feature,location
+0,30,20,10,Black hollow cylinder,Top edge
+0,40,20,10,Black hollow cylinder,Top edge
+0,35,15,10,Black hollow cylinder,Top edge
+0,35,25,10,Black hollow cylinder,Top edge
+1,6,6,21,Boss 1,Top left corner
+1,4,6,21,Boss 1,Top right corner
+1,5,4,21,Boss 1,Bottom corner
+2,6,6,31,Boss 2,Top left corner
+2,4,6,31,Boss 2,Top right corner
+2,5,4,31,Boss 2,Bottom corner
+3,6,36,21,Boss 3,Top left corner
+3,4,36,21,Boss 3,Top right corner
+3,5,34,21,Boss 3,Bottom corner
+4,6,36,31,Boss 4,Top left corner
+4,4,36,31,Boss 4,Top right corner
+4,5,34,31,Boss 4,Bottom corner
+5,66,6,21,Boss 5,Top left corner
+5,64,6,21,Boss 5,Top right corner
+5,65,4,21,Boss 5,Bottom corner
+6,66,6,31,Boss 6,Top left corner
+6,64,6,31,Boss 6,Top right corner
+6,65,4,31,Boss 6,Bottom corner
+7,66,36,21,Boss 7,Top left corner
+7,64,36,21,Boss 7,Top right corner
+7,65,34,21,Boss 7,Bottom corner
+8,66,36,31,Boss 8,Top left corner
+8,64,36,31,Boss 8,Top right corner
+8,65,34,31,Boss 8,Bottom corner
+9,0,0,0,Brown base,Bottom-left corner
+9,70,40,20,Brown base,Top-right corner
+10,23,20,46,Engraving 1,Edge
+10,27,20,46,Engraving 1,Edge
+11,43,20,46,Engraving 2,Edge
+11,47,20,46,Engraving 2,Edge
+12,8,5,12,Hole 1,Edge
+12,12,5,12,Hole 1,Edge
+13,58,5,12,Hole 2,Edge
+13,62,5,12,Hole 2,Edge
+14,8,35,12,Hole 3,Edge
+14,12,35,12,Hole 3,Edge
+15,58,35,12,Hole 4,Edge
+15,62,35,12,Hole 4,Edge
+16,30,20,60,Large vertical cylinder,Top edge
+16,40,20,60,Large vertical cylinder,Top edge
+16,35,15,60,Large vertical cylinder,Top edge
+16,35,25,60,Large vertical cylinder,Top edge
+16,30,20,55,Large vertical cylinder,Bottom edge
+16,40,20,55,Large vertical cylinder,Bottom edge
+16,35,15,55,Large vertical cylinder,Bottom edge
+16,35,25,55,Large vertical cylinder,Bottom edge
+17,0,0,40,Light blue top section,Bottom-left corner
+17,70,40,60,Light blue top section,Top-right corner
+18,0,0,20,Pink middle layer,Bottom-left corner
+18,70,40,40,Pink middle layer,Top-right corner
+19,20,25,50,Rectangular block 1,Bottom left corner
+19,35,35,55,Rectangular block 1,Top right corner
+19,20,35,50,Rectangular block 1,Top left corner
+19,35,25,55,Rectangular block 1,Bottom right corner
+20,40,25,50,Rectangular block 2,Bottom left corner
+20,55,35,55,Rectangular block 2,Top right corner
+20,40,35,50,Rectangular block 2,Top left corner
+20,55,25,55,Rectangular block 2,Bottom right corner
+21,0,10,40,Step front side,Bottom left corner
+21,20,15,55,Step front side,Top right corner
+21,0,10,55,Step front side,Top left corner
+21,20,15,40,Step front side,Bottom right corner
+22,50,35,40,Step right side,Bottom left corner
+22,65,40,55,Step right side,Top right corner
+22,50,35,55,Step right side,Top left corner
+22,65,35,40,Step right side,Bottom right corner

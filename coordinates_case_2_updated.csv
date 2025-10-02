@@ -1,0 +1,93 @@
+f,x,y,z,feature
+0,0,0,0,top green block part1
+0,15,0,0,top green block part1
+0,15,20,0,top green block part1
+0,0,20,0,top green block part1
+1,15,0,0,top green block part2
+1,30,0,0,top green block part2
+1,30,20,0,top green block part2
+1,15,20,0,top green block part2
+2,0,20,0,top green block part3
+2,15,20,0,top green block part3
+2,15,40,0,top green block part3
+2,0,40,0,top green block part3
+3,15,20,0,top green block part4
+3,30,20,0,top green block part4
+3,15,40,0,top green block part4
+3,30,40,0,top green block part4
+4,0,0,80,bottom green block part1
+4,15,0,80,bottom green block part1
+4,15,20,80,bottom green block part1
+4,0,20,80,bottom green block part1
+5,15,0,80,bottom green block part2
+5,30,0,80,bottom green block part2
+5,30,20,80,bottom green block part2
+5,15,20,80,bottom green block part2
+6,0,20,80,bottom green block part3
+6,15,20,80,bottom green block part3
+6,15,40,80,bottom green block part3
+6,0,40,80,bottom green block part3
+7,15,20,80,bottom green block part4
+7,30,20,80,bottom green block part4
+7,15,40,80,bottom green block part4
+7,30,40,80,bottom green block part4
+8,0,0,20,bottom middle green part1
+8,15,0,20,bottom middle green part1
+8,15,20,20,bottom middle green part1
+8,0,20,20,bottom middle green part1
+9,15,0,20,bottom middle green part2
+9,30,0,20,bottom middle green part2
+9,30,20,20,bottom middle green part2
+9,15,20,20,bottom middle green part2
+10,0,20,20,bottom middle green part3
+10,15,20,20,bottom middle green part3
+10,15,40,20,bottom middle green part3
+10,0,40,20,bottom middle green part3
+11,15,20,20,bottom middle green part4
+11,30,20,20,bottom middle green part4
+11,15,40,20,bottom middle green part4
+11,30,40,20,bottom middle green part4
+12,0,0,60,top middle green part1
+12,15,0,60,top middle green part1
+12,15,20,60,top middle green part1
+12,0,20,60,top middle green part1
+13,15,0,60,top middle green part2
+13,30,0,60,top middle green part2
+13,30,20,60,top middle green part2
+13,15,20,60,top middle green part2
+14,0,20,60,top middle green part3
+14,15,20,60,top middle green part3
+14,15,40,60,top middle green part3
+14,0,40,60,top middle green part3
+15,15,20,60,top middle green part4
+15,30,20,60,top middle green part4
+15,15,40,60,top middle green part4
+15,30,40,60,top middle green part4
+16,0,15,45,bottom gray part 1
+16,0,25,45,bottom gray part 1
+16,20,15,45,bottom gray part 1
+16,20,25,45,bottom gray part 1
+17,20,15,45,bottom gray part 2
+17,20,25,45,bottom gray part 2
+17,40,15,45,bottom gray part 2
+17,40,25,45,bottom gray part 2
+18,0,15,55,top gray part 1
+18,0,25,55,top gray part 1
+18,20,15,55,top gray part 1
+18,20,25,55,top gray part 1
+19,20,15,55,top gray part 2
+19,20,25,55,top gray part 2
+19,40,15,55,top gray part 2
+19,40,25,55,top gray part 2
+20,12,18,20,hole in green bootom part
+20,18,24,20,hole in green bootom part
+21,12,18,60,hole in top green part
+21,18,24,60,hole in top green part
+22,32,18,45,hole in bottom gray part
+22,38,24,45,hole in bottom gray part
+23,32,18,55,hole in top gray part
+23,38,24,55,hole in top gray part
+24,32,4,4,bottom left pin
+25,32,4,78,top left pin
+26,32,38,4,bottom right pin
+27,32,38,78,top right pin

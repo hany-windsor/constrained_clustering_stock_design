@@ -1,0 +1,77 @@
+f,x,y,z,feature,location
+0,30,20,10,Black hollow cylinder,Top edge
+0,40,20,10,Black hollow cylinder,Top edge
+0,35,15,10,Black hollow cylinder,Top edge
+0,35,25,10,Black hollow cylinder,Top edge
+1,6,16,21,Boss 1,Top left corner
+1,4,16,21,Boss 1,Top right corner
+1,5,14,21,Boss 1,Bottom corner
+2,6,16,26,Boss 2,Top left corner
+2,4,16,26,Boss 2,Top right corner
+2,5,14,26,Boss 2,Bottom corner
+3,6,19,21,Boss 3,Top left corner
+3,4,19,21,Boss 3,Top right corner
+3,5,19,21,Boss 3,Bottom corner
+4,6,19,26,Boss 4,Top left corner
+4,4,19,26,Boss 4,Top right corner
+4,5,19,26,Boss 4,Bottom corner
+5,66,16,21,Boss 5,Top left corner
+5,64,16,21,Boss 5,Top right corner
+5,65,14,21,Boss 5,Bottom corner
+6,66,16,26,Boss 6,Top left corner
+6,64,16,26,Boss 6,Top right corner
+6,65,14,26,Boss 6,Bottom corner
+7,66,19,21,Boss 7,Top left corner
+7,64,19,21,Boss 7,Top right corner
+7,65,19,21,Boss 7,Bottom corner
+8,66,19,26,Boss 8,Top left corner
+8,64,19,26,Boss 8,Top right corner
+8,65,19,26,Boss 8,Bottom corner
+9,0,0,0,Brown base,Bottom-left corner
+9,70,40,20,Brown base,Top-right corner
+10,23,20,36,Engraving 1,Edge
+10,27,22,36,Engraving 1,Edge
+11,28,20,36,Engraving 2,Edge
+11,32,22,36,Engraving 2,Edge
+12,8,15,12,Hole 1,Edge
+12,12,18,12,Hole 1,Edge
+13,16,15,12,Hole 2,Edge
+13,20,18,12,Hole 2,Edge
+14,22,15,12,Hole 3,Edge
+14,26,18,12,Hole 3,Edge
+15,28,15,12,Hole 4,Edge
+15,32,18,12,Hole 4,Edge
+16,30,20,60,Large vertical cylinder,Top edge
+16,40,20,60,Large vertical cylinder,Top edge
+16,35,15,60,Large vertical cylinder,Top edge
+16,35,25,60,Large vertical cylinder,Top edge
+16,30,20,55,Large vertical cylinder,Bottom edge
+16,40,20,55,Large vertical cylinder,Bottom edge
+16,35,15,55,Large vertical cylinder,Bottom edge
+16,35,25,55,Large vertical cylinder,Bottom edge
+17,16,20,40,Light blue top section,Bottom-left corner
+17,50,20,60,Light blue top section,Top-right corner
+18,0,0,20,Pink middle layer,Bottom-left corner
+18,70,40,40,Pink middle layer,Top-right corner
+19,10,10,30,Step front side,Bottom left corner
+19,40,15,42,Step front side,Top right corner
+19,10,15,42,Step front side,Top left corner
+19,40,10,30,Step front side,Bottom right corner
+20,40,20,30,Step right side,Bottom left corner
+20,50,30,42,Step right side,Top right corner
+20,10,20,42,Step right side,Top left corner
+20,50,20,30,Step right side,Bottom right corner
+21,10,25,40,blue hole,point 1
+21,20,25,40,blue hole,point 2
+21,8,15,40,blue hole,point 3
+21,8,35,40,blue hole,point 4
+22,8,10,44,Small pin 1,Top edge
+22,12,10,48,Small pin 1,Top edge
+23,8,15,44,Small pin 2,Top edge
+23,12,17,48,Small pin 2,Top edge
+24,35,15,44,Small pin 3,Top edge
+24,37,15,48,Small pin 3,Top edge
+25,46,15,42,Small pin 4,Top edge
+25,48,17,48,Small pin 4,Top edge
+26,46,30,42,Small pin 5,Top edge
+26,48,32,48,Small pin 5,Top edge
