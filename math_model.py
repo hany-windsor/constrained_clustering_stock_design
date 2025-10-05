@@ -34,7 +34,7 @@ for key, value in hausdorff_distances.items():
         raise KeyError(f"Shape {shape1} or {shape2} not found in index mapping!")
 
     h[i][j] = value
-    h[j][i] = value  # Ensure symmetry
+    #h[j][i] = value  # Ensure symmetry
 
 # Calculate farthest x and y distances
 farthest_x_y_distances = farthest_distance.find_farthest_distance(data)
